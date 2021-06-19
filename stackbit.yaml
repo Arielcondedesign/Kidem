@@ -27,7 +27,7 @@ stackbit_banner:
   show_banner: true
   name: DIY
   create_url: 'https://app.stackbit.com/create?theme=diy'
-  github_url: 'https://github.com/stackbit-themes/diy-unibit'
+  github_url: 'https://github.com/stackbit/stackbit-theme-diy'
 models:
   config:
     type: config
